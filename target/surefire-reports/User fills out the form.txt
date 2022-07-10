@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: User fills out the form
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.328 s - in User fills out the form

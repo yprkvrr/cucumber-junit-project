@@ -1,0 +1,43 @@
+07/05/2022
+
+Topics:           #1- dryRun
+                  #2- tags
+                  #3- Background
+                  #4- Hooks
+                  #5- Html Reports
+                  #6- Parameterization
+                  #7- dataTables
+                  #8- scenario outlines
+
+ Upcoming topics: #9- cucumber rerun
+                  #10-report generation
+                  #11- parallel testing
+
+
+  ======================================================================
+
+  DATA DRIVEN TESTING:
+
+  - Execute the same test with multiple sets of test data.
+
+  •Assume, you need to test login form with 50 different sets of test data
+  •As a manual tester, you do log in with all the 50 different sets of test data for 50 times
+  •As an automation tester, you create a test script and run 50 times by changing the test data on each run or you create 50 test scripts to execute the scenario
+  •We can achieve Data-driven framework using:
+    - TestNG's data provider
+    - Cucumber scenario outlines
+    - Excel apache poi
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
